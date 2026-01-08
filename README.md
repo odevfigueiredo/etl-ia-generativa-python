@@ -45,8 +45,7 @@ etl-ia-generativa-python/
 │   └── workflows/
 │       └── ci.yml           # Configuração CI GitHub Actions
 ├── pyproject.toml           # Configuração do projeto e dependências
-├── README.md                # Documentação do projeto
-└── CHANGELOG.md             # Histórico de versões
+└── README.md                # Documentação do projeto
 ```
 
 ---
