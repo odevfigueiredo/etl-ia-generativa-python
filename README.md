@@ -1,6 +1,6 @@
 # Explorando IA Generativa em um Pipeline ETL com Python
 
-[![CI]([https://github.com/odevfigueiredo/etl-ia-generativa-python/actions/workflows/ci.yml/badge.svg)](https://github.com/odevfigueiredo/etl-ia-generativa-python/actions/workflows/ci.yml)
+[![CI](https://github.com/odevfigueiredo/etl-ia-generativa-python/actions/workflows/ci.yml/badge.svg)](https://github.com/odevfigueiredo/etl-ia-generativa-python/actions/workflows/ci.yml)
 
 ## 📌 Visão Geral
 
