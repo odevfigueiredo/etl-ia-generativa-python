@@ -11,8 +11,6 @@ Este projeto exemplifica a construção de um pipeline ETL (Extração, Transfor
 - **Testes automatizados:** garantia de qualidade e confiabilidade do código com `pytest`.  
 - **Integração Contínua (CI):** pipeline configurada para rodar testes automaticamente via GitHub Actions.
 
-Este repositório serve como uma peça de portfólio para profissionais que desejam mostrar domínio prático em Ciência de Dados, Engenharia de Dados e desenvolvimento Python estruturado.
-
 ---
 
 ## 🚀 Funcionalidades
