@@ -28,7 +28,7 @@ Este projeto exemplifica a construção de um pipeline ETL (Extração, Transfor
 ## 📂 Estrutura do Projeto
 
 ```
-explorando-ia-etl/
+etl-ia-generativa-python/
 ├── data/
 │   ├── input/                # Arquivos CSV de entrada
 │   └── output/               # Resultados do pipeline
